@@ -56,7 +56,7 @@ class Discover extends Component {
     <div className="container">
         <div>
           <h3 className="text-center">
-            Employee Directory
+            
           </h3>
           <div className="row"> 
           <div className ="col-md-2">
