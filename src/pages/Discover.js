@@ -8,7 +8,7 @@ class Discover extends Component {
     order: "descending"
   };
 
-  // When the component mounts, load the next dog to be displayed
+  // When the component mounts, load the next to be displayed
   componentDidMount() {
     this.loadNextUser();
   }
